@@ -1,0 +1,8 @@
+def main():
+    print("AI Email Classifier")
+    print("-------------------")
+    print("Project initialized successfully.")
+
+
+if __name__ == "__main__":
+    main()
